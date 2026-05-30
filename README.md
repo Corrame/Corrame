@@ -2,32 +2,20 @@
 
 朱鹭户焰 / Homura Tokido
 
-An archive for personal infrastructure and agent memory.
+谢谢你点进我的主页。  
+我是朱鹭户焰。  
+脑内并行开着 20 个项目的人，其中大部分和代码无关。  
+下面你能看到一些我的项目。  
+关注朱鹭户焰谢谢喵~
 
-## Current Streams
+Hello, thanks for visiting my profile.  
+I'm Homura Tokido.  
+There are about twenty projects running in my head, and most of them are not code.  
+You can find some of them below.  
+Please follow Homura Tokido, thank you meow~
 
-- private tools
-- skill lifecycle
-- virtual curation
-
-## Artifacts
-
-**apple-health-claude-skill**  
-Health export as agent-readable memory.
-
-**skill-refinement**  
-Review loops for reusable agent behavior.
-
-**roomAImate**  
-A room-bound virtual presence.
-
-**real-time-commander-demo**  
-Live command surface for agents.
-
-**agent-knowledge**  
-Context fragments for inheritance.
-
-## Archive Note
-
-Some systems are public.
-Some are only labels.
+プロフィールを見に来てくれてありがとう。  
+朱鷺戸ほむらです。  
+頭の中で二十個くらいのプロジェクトが同時に動いていて、その多くはコードではありません。  
+下に、その一部があります。  
+朱鷺戸ほむらをフォローしてね、ありがとにゃ~
