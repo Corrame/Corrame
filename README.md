@@ -1,46 +1,31 @@
 # 朱鷺戸ほむら
 
-@Corrame
-
-卧龙岗 / Cyberspace
-
-Personal infrastructure, agent memory, cyber identity.
-Private tools for an AI-native individual.
-
-A quiet archive of systems made to remember, refine, command, and curate.
-Not a showcase.
-Not a funnel.
-A plaque at the entrance.
+An archive for personal infrastructure and agent memory.
 
 ## Current Streams
 
-- agent memory as lived infrastructure
-- skill lifecycle as personal craft
-- cyber identity as maintained surface
-- virtual curation as daily practice
-- private tools for private continuities
+- private tools
+- skill lifecycle
+- virtual curation
 
 ## Artifacts
 
 **apple-health-claude-skill**  
-A health-memory interface folded into an agent skill.
+Health export as agent-readable memory.
 
 **skill-refinement**  
-Notes and procedures for sharpening reusable agent behavior.
+Review loops for reusable agent behavior.
 
 **roomAImate**  
-A domestic virtual presence, kept near the room rather than the cloud.
+A room-bound virtual presence.
 
 **real-time-commander-demo**  
-A small command surface for live agent coordination.
+Live command surface for agents.
 
 **agent-knowledge**  
-Fragments arranged for agents to inherit context without ceremony.
+Context fragments for inheritance.
 
 ## Archive Note
 
-This place is maintained as a cold room for useful traces.
-
-Some tools are public.
-Some remain private.
-Some are only labels for systems still changing shape.
+Some systems are public.
+Some are only labels.
